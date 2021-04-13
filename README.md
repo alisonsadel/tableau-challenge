@@ -1,5 +1,5 @@
 # Tableau Citibike Challenge
-<img src="/img/citibike_gif.gif" width="1000" height="250"/>
+<img src="/img/citibike_gif.gif" width="1000" height="500"/>
 
 # OVERVIEW
 # EXTRACT
